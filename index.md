@@ -1,17 +1,18 @@
 ---
 layout: frontpage
 title: Home
-banner-title: Example Github site
-banner-description: This is a custom Jekyll theme based on UCAR/NCAR's custom 'koru' design. It is built on top of the Foundation framework. This provides users and developers with responsiveness and accessibility.
-banner-button-text: Download
-banner-button-url: https://github.com/NCAR/jekyll-koru-jekyll-template
+banner-title: Artificial Intelligence for Earth System Science Web Portal
+banner-description: Resources to support machine learning at NCAR
+[]: # banner-button-text: Download
+[]: # banner-button-url: https://github.com/NCAR/jekyll-koru-jekyll-template
+
 ---
+# About
 
-# Documentation
+# Tutorials
 
-NCAR/UCAR users interested in using this template with their Github pages website will need to first clone down this repository and copy over code either into their project's existing /docs directory or a new repository. You should then change the _config.yml, index.md, README.md and markdown pages within the /pages directory.
+* [AI4ESS Summer School (June 2020)](https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020)
+* [Trustworthy AI for Environmental Science Summer School (July 2021)](https://www2.cisl.ucar.edu/events/past-training-workshops/tai4es)
 
-| Syntax | Description |
-| ----------- | ----------- |
-| ![](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png) | Title |
-| Paragraph | Text |
+# Datasets
+* [Pangeo Machine Learning Datasets](http://mldata.pangeo.io/)
