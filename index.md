@@ -3,8 +3,6 @@ layout: frontpage
 title: Home
 banner-title: Artificial Intelligence for Earth System Science Web Portal
 banner-description: Resources to support machine learning at NCAR
-[]: # banner-button-text: Download
-[]: # banner-button-url: https://github.com/NCAR/jekyll-koru-jekyll-template
 
 ---
 # About
